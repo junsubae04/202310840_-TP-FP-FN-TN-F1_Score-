@@ -22,7 +22,7 @@ accuracy=(TP+TN)/N
 sensitivity=TP/(TP+FN)
 
 #3. 특이도 speificity
-specificity=TN/(TN+FPN)
+specificity=TN/(TN+FP)
 
 #4. 정밀도 Precision/PPV
 precision=TP/(TP+FP)
